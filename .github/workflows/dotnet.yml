@@ -28,20 +28,20 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: Publish SimpleDbContext.Core
-        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.Core.*.nupkg%
+        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.Core.*.nupkg
     - uses: actions/upload-artifact@v2
       with:
         name: Publish SimpleDbContext.AspNetCore
-        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.AspNetCore.*.nupkg%
+        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.AspNetCore.*.nupkg
     - uses: actions/upload-artifact@v2
       with:
         name: Publish SimpleDbContext.Mysql
-        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.Mysql.*.nupkg%
+        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.Mysql.*.nupkg
     - uses: actions/upload-artifact@v2
       with:
         name: Publish SimpleDbContext.Npgsql
-        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.Npgsql.*.nupkg%
+        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.Npgsql.*.nupkg
     - uses: actions/upload-artifact@v2
       with:
         name: Publish SimpleDbRepository
-        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbRepository.*.nupkg%
+        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbRepository.*.nupkg
