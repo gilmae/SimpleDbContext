@@ -20,6 +20,6 @@
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SimpleRepo\SimpleDbContext.Core.csproj" />
+    <ProjectReference Include="..\SimpleDbContext.Core\SimpleDbContext.Core.csproj" />
   </ItemGroup>
 </Project>

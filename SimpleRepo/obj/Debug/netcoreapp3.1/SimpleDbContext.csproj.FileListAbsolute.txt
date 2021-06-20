@@ -1,9 +1,0 @@
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/bin/Debug/netcoreapp3.1/SimpleDbContext.deps.json
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/bin/Debug/netcoreapp3.1/SimpleDbContext.dll
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/bin/Debug/netcoreapp3.1/SimpleDbContext.pdb
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleDbContext.csproj.AssemblyReference.cache
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleDbContext.AssemblyInfoInputs.cache
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleDbContext.AssemblyInfo.cs
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleDbContext.csproj.CoreCompileInputs.cache
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleDbContext.dll
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleDbContext.pdb
