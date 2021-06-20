@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZcALzdE40zJLHQ51wlhpPfXaQrxVfB0OFlJl4XCqXBiCEACv5uC82YEgzan1H3WQsYjuiZzeUGPr/pV40WPfXg==",
+  "dgSpecHash": "BE1z1+sCHpFq5FSAmAw8qhIIpJBBYSUV8IH4P4H6GkWBGZoBE5hX/EgK2FmO+rHTJpnVPh/SY40tetktStoXhQ==",
   "success": true,
-  "projectFilePath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.csproj",
+  "projectFilePath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.Core.csproj",
   "expectedPackageFiles": [
     "/Users/gilmae/.nuget/packages/dapper/2.0.35/dapper.2.0.35.nupkg.sha512",
     "/Users/gilmae/.nuget/packages/dapper.contrib/2.0.35/dapper.contrib.2.0.35.nupkg.sha512",

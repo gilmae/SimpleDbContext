@@ -9,12 +9,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SimpleRepo\SimpleRepo.csproj" />
-  </ItemGroup>
-  <ItemGroup>
     <None Remove="MySql.Data" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MySql.Data" Version="8.0.25" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleRepo\SimpleDbContext.Core.csproj" />
   </ItemGroup>
 </Project>

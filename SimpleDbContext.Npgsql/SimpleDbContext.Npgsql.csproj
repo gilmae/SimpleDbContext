@@ -5,12 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SimpleRepo\SimpleDbContext.csproj" />
-  </ItemGroup>
-  <ItemGroup>
     <None Remove="Npgsql" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Npgsql" Version="5.0.7" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleRepo\SimpleDbContext.Core.csproj" />
   </ItemGroup>
 </Project>

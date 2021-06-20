@@ -2,8 +2,6 @@
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/bin/Debug/net5.0/SimpleDbRepository.dll
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/bin/Debug/net5.0/ref/SimpleDbRepository.dll
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/bin/Debug/net5.0/SimpleDbRepository.pdb
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/bin/Debug/net5.0/SimpleDbContext.dll
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/bin/Debug/net5.0/SimpleDbContext.pdb
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/obj/Debug/net5.0/SimpleDbRepository.csproj.AssemblyReference.cache
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/obj/Debug/net5.0/SimpleDbRepository.GeneratedMSBuildEditorConfig.editorconfig
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/obj/Debug/net5.0/SimpleDbRepository.AssemblyInfoInputs.cache
@@ -13,3 +11,5 @@
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/obj/Debug/net5.0/SimpleDbRepository.dll
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/obj/Debug/net5.0/ref/SimpleDbRepository.dll
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/obj/Debug/net5.0/SimpleDbRepository.pdb
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/bin/Debug/net5.0/SimpleDbContext.Core.dll
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/bin/Debug/net5.0/SimpleDbContext.Core.pdb

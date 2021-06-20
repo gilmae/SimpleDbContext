@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aXhtXwGpD9Lg8pJvXBHFPjRzdeNYnPh8QMDZ0SXbUNiors6v7h7wQ8ZrnMDCNkAsAKSMq6bY1I3Bp8X7o8u4+g==",
+  "dgSpecHash": "vTwGNqiwqG6MsnICZ1azt8S/fRvsb+n+kjtFmda2zW7ucv4a66ZQJi2joewNI8rc9H2+RZ4SdKh5mW6ysQBtuA==",
   "success": true,
   "projectFilePath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNet/SimpleDbContext.AspNetCore.csproj",
   "expectedPackageFiles": [

@@ -2,8 +2,6 @@
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/bin/Debug/net5.0/SimpleDbContext.Npgsql.dll
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/bin/Debug/net5.0/ref/SimpleDbContext.Npgsql.dll
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/bin/Debug/net5.0/SimpleDbContext.Npgsql.pdb
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/bin/Debug/net5.0/SimpleDbContext.dll
-/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/bin/Debug/net5.0/SimpleDbContext.pdb
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/obj/Debug/net5.0/SimpleDbContext.Npgsql.csproj.AssemblyReference.cache
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/obj/Debug/net5.0/SimpleDbContext.Npgsql.GeneratedMSBuildEditorConfig.editorconfig
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/obj/Debug/net5.0/SimpleDbContext.Npgsql.AssemblyInfoInputs.cache
@@ -13,3 +11,5 @@
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/obj/Debug/net5.0/SimpleDbContext.Npgsql.dll
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/obj/Debug/net5.0/ref/SimpleDbContext.Npgsql.dll
 /Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/obj/Debug/net5.0/SimpleDbContext.Npgsql.pdb
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/bin/Debug/net5.0/SimpleDbContext.Core.dll
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/bin/Debug/net5.0/SimpleDbContext.Core.pdb

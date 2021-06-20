@@ -354,9 +354,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.csproj",
-      "projectName": "SimpleDbContext",
-      "projectPath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.csproj",
+      "projectUniqueName": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.Core.csproj",
+      "projectName": "SimpleDbContext.Core",
+      "projectPath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.Core.csproj",
       "packagesPath": "/Users/gilmae/.nuget/packages/",
       "outputPath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/obj/",
       "projectStyle": "PackageReference",

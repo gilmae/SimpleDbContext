@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gOmAYp7I4Lx99JnHfmfCp1mmIeC0u3vyRbLP7I+OdeOGReCkxb5ejHQRyvwC20I0tF099OA79MYy9RomqvsVqw==",
+  "dgSpecHash": "L+eTzcV3yJ+oURVD8rGkc5Hf0+t7e+vuhubla2BQkm3DXXJmOVkFOGyR/kdlv+u65NBQVw44rx/U+slIlILBbQ==",
   "success": true,
   "projectFilePath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Npgsql/SimpleDbContext.Npgsql.csproj",
   "expectedPackageFiles": [

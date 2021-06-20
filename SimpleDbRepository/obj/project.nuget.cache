@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1dQD2+2x5Sn8VgbYc8Fmwi1xK82l35uieKaexYSk3CA76jDRN5BuKBpDHIBBrztinPkQVwTzCXzw9wh3Qoz5Qg==",
+  "dgSpecHash": "TaHv60v7NbkdyL3ZClWOIutFoGmhk0iXi4qKPnMiRIUgCwJBlKqqJL1iSm78RI8HVSe6Le5cnx3cjiIlTVms0Q==",
   "success": true,
   "projectFilePath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbRepository/SimpleDbRepository.csproj",
   "expectedPackageFiles": [

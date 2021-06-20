@@ -1,6 +1,6 @@
 ﻿using System.Data;
-using SimpleRepo;
 using MySql.Data.MySqlClient;
+
 
 namespace SimpleDbContext.Mysql
 {

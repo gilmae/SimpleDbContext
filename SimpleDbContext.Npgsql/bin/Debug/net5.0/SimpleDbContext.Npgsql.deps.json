@@ -9,7 +9,7 @@
       "SimpleDbContext.Npgsql/1.0.0": {
         "dependencies": {
           "Npgsql": "5.0.7",
-          "SimpleDbContext": "1.0.0"
+          "SimpleDbContext.Core": "1.0.0"
         },
         "runtime": {
           "SimpleDbContext.Npgsql.dll": {}
@@ -54,14 +54,14 @@
       "System.Reflection.Emit/4.7.0": {},
       "System.Reflection.Emit.Lightweight/4.7.0": {},
       "System.Runtime.CompilerServices.Unsafe/4.6.0": {},
-      "SimpleDbContext/1.0.0": {
+      "SimpleDbContext.Core/1.0.0": {
         "dependencies": {
           "Dapper": "2.0.35",
           "Dapper.Contrib": "2.0.35",
           "Npgsql": "5.0.7"
         },
         "runtime": {
-          "SimpleDbContext.dll": {}
+          "SimpleDbContext.Core.dll": {}
         }
       }
     }
@@ -121,7 +121,7 @@
       "path": "system.runtime.compilerservices.unsafe/4.6.0",
       "hashPath": "system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
     },
-    "SimpleDbContext/1.0.0": {
+    "SimpleDbContext.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

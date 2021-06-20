@@ -76,7 +76,7 @@
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         }
       },
-      "SimpleDbContext/1.0.0": {
+      "SimpleDbContext.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -85,10 +85,10 @@
           "Npgsql": "4.1.3.1"
         },
         "compile": {
-          "bin/placeholder/SimpleDbContext.dll": {}
+          "bin/placeholder/SimpleDbContext.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SimpleDbContext.dll": {}
+          "bin/placeholder/SimpleDbContext.Core.dll": {}
         }
       }
     }
@@ -350,16 +350,16 @@
         "version.txt"
       ]
     },
-    "SimpleDbContext/1.0.0": {
+    "SimpleDbContext.Core/1.0.0": {
       "type": "project",
-      "path": "../SimpleRepo/SimpleDbContext.csproj",
-      "msbuildProject": "../SimpleRepo/SimpleDbContext.csproj"
+      "path": "../SimpleRepo/SimpleDbContext.Core.csproj",
+      "msbuildProject": "../SimpleRepo/SimpleDbContext.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Npgsql >= 5.0.7",
-      "SimpleDbContext >= 1.0.0"
+      "SimpleDbContext.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -391,8 +391,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.csproj": {
-              "projectPath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.csproj"
+            "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.Core.csproj": {
+              "projectPath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.Core.csproj"
             }
           }
         }

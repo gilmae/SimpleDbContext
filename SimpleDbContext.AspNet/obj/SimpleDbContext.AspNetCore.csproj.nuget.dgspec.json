@@ -29,8 +29,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.csproj": {
-                "projectPath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.csproj"
+              "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.Core.csproj": {
+                "projectPath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.Core.csproj"
               }
             }
           }
@@ -73,12 +73,12 @@
         }
       }
     },
-    "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.csproj": {
+    "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.csproj",
-        "projectName": "SimpleDbContext",
-        "projectPath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.csproj",
+        "projectUniqueName": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.Core.csproj",
+        "projectName": "SimpleDbContext.Core",
+        "projectPath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/SimpleDbContext.Core.csproj",
         "packagesPath": "/Users/gilmae/.nuget/packages/",
         "outputPath": "/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleRepo/obj/",
         "projectStyle": "PackageReference",

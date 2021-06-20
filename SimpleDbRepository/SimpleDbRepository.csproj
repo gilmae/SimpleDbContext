@@ -5,14 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SimpleRepo\SimpleDbContext.csproj" />
-  </ItemGroup>
-  <ItemGroup>
     <None Remove="Dapper" />
     <None Remove="Dapper.Contrib" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Dapper" Version="2.0.90" />
     <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleRepo\SimpleDbContext.Core.csproj" />
   </ItemGroup>
 </Project>

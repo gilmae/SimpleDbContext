@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDbContext", "SimpleRepo\SimpleDbContext.csproj", "{1058DB1D-F939-47D5-AB1B-2BD47BB29111}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDbContext.Core", "SimpleRepo\SimpleDbContext.Core.csproj", "{1058DB1D-F939-47D5-AB1B-2BD47BB29111}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDbContext.Npgsql", "SimpleDbContext.Npgsql\SimpleDbContext.Npgsql.csproj", "{C94181FB-6355-494A-8251-534A3B2DB3FC}"
 EndProject
