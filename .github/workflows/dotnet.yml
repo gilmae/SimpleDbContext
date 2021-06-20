@@ -27,7 +27,6 @@ jobs:
       run: dotnet test --no-build --verbosity normal
     - name: Publish
       run: |
-        dotnet nuget add source --username gilmae --password ${{ secrets.API_TOKEN }} --store-password-in-clear-text --name github "https://nuget.pkg.github.com/gilmae/index.json"
         dotnet nuget push "SimpleDbContext.Core.*.nupkg"  --api-key ${{ secrets.API_TOKEN }} --source "github"
         dotnet nuget push "SimpleDbContext.MySql*.nupkg"  --api-key ${{ secrets.API_TOKEN }} --source "github"
         dotnet nuget push "SimpleDbContext.Npgsqk.*.nupkg"  --api-key ${{ secrets.API_TOKEN }} --source "github"
