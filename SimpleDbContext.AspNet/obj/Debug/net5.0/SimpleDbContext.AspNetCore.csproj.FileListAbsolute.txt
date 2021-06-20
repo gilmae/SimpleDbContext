@@ -1,0 +1,13 @@
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNetCore/bin/Debug/net5.0/SimpleDbContext.AspNetCore.deps.json
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNetCore/bin/Debug/net5.0/SimpleDbContext.AspNetCore.dll
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNetCore/bin/Debug/net5.0/ref/SimpleDbContext.AspNetCore.dll
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNetCore/bin/Debug/net5.0/SimpleDbContext.AspNetCore.pdb
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNet/obj/Debug/net5.0/SimpleDbContext.AspNetCore.csproj.AssemblyReference.cache
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNet/obj/Debug/net5.0/SimpleDbContext.AspNetCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNet/obj/Debug/net5.0/SimpleDbContext.AspNetCore.AssemblyInfoInputs.cache
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNet/obj/Debug/net5.0/SimpleDbContext.AspNetCore.AssemblyInfo.cs
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNet/obj/Debug/net5.0/SimpleDbContext.AspNetCore.csproj.CoreCompileInputs.cache
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNet/obj/Debug/net5.0/SimpleDbContext.AspNetCore.csproj.CopyComplete
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNet/obj/Debug/net5.0/SimpleDbContext.AspNetCore.dll
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNet/obj/Debug/net5.0/ref/SimpleDbContext.AspNetCore.dll
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.AspNet/obj/Debug/net5.0/SimpleDbContext.AspNetCore.pdb

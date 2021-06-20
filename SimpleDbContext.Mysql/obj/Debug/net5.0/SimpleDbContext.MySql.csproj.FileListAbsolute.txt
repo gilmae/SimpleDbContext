@@ -1,0 +1,5 @@
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Mysql/obj/Debug/net5.0/SimpleDbContext.MySql.csproj.AssemblyReference.cache
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Mysql/obj/Debug/net5.0/SimpleDbContext.MySql.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Mysql/obj/Debug/net5.0/SimpleDbContext.MySql.AssemblyInfoInputs.cache
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Mysql/obj/Debug/net5.0/SimpleDbContext.MySql.AssemblyInfo.cs
+/Users/gilmae/Projects/dotnet/SimpleDbContext/SimpleDbContext.Mysql/obj/Debug/net5.0/SimpleDbContext.MySql.csproj.CoreCompileInputs.cache

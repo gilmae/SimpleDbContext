@@ -1,0 +1,9 @@
+/Users/gilmae/Projects/dotnet/Maat/SimpleRepo/bin/Debug/netcoreapp3.1/SimpleRepo.deps.json
+/Users/gilmae/Projects/dotnet/Maat/SimpleRepo/bin/Debug/netcoreapp3.1/SimpleRepo.dll
+/Users/gilmae/Projects/dotnet/Maat/SimpleRepo/bin/Debug/netcoreapp3.1/SimpleRepo.pdb
+/Users/gilmae/Projects/dotnet/Maat/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleRepo.AssemblyInfoInputs.cache
+/Users/gilmae/Projects/dotnet/Maat/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleRepo.AssemblyInfo.cs
+/Users/gilmae/Projects/dotnet/Maat/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleRepo.csproj.CoreCompileInputs.cache
+/Users/gilmae/Projects/dotnet/Maat/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleRepo.dll
+/Users/gilmae/Projects/dotnet/Maat/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleRepo.pdb
+/Users/gilmae/Projects/dotnet/Maat/SimpleRepo/obj/Debug/netcoreapp3.1/SimpleRepo.csproj.AssemblyReference.cache
