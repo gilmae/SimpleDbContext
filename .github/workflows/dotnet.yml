@@ -20,6 +20,28 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build --no-restore
+      run: |
+        dotnet build --no-restore --configuration Release
+        dotnet pack --configuration Release --output .
     - name: Test
       run: dotnet test --no-build --verbosity normal
+    - uses: actions/upload-artifact@v2
+      with:
+        name: Publish SimpleDbContext.Core
+        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.Core.*.nupkg%
+    - uses: actions/upload-artifact@v2
+      with:
+        name: Publish SimpleDbContext.AspNetCore
+        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.AspNetCore.*.nupkg%
+    - uses: actions/upload-artifact@v2
+      with:
+        name: Publish SimpleDbContext.Mysql
+        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.Mysql.*.nupkg%
+    - uses: actions/upload-artifact@v2
+      with:
+        name: Publish SimpleDbContext.Npgsql
+        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbContext.Npgsql.*.nupkg%
+    - uses: actions/upload-artifact@v2
+      with:
+        name: Publish SimpleDbRepository
+        path: /home/runner/work/SimpleDbContext/SimpleDbContext/SimpleDbRepository.*.nupkg%
