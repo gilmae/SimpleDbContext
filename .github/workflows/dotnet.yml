@@ -39,5 +39,5 @@ jobs:
       run: |
         dotnet nuget push **/*.nupkg \
           --source ${{ env.NUGET_URL }} \
-          --skip-duplicate
+          --skip-duplicate \
           --api-key ${{ secrets.API_TOKEN }}
