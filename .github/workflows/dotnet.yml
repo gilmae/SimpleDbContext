@@ -15,10 +15,10 @@ jobs:
     - 
       name: Prep
       run: |
-          echo "::set-env name=BUILD_VER::1.0.$GITHUB_RUN_NUMBER"
-          echo "::set-env name=CONFIG::Release"
-          echo "::set-env name=NUGET_URL::https://nuget.pkg.github.com/${{ github.repository_owner }}/index.json"
-          echo "::set-env name=SLN::SimpleDbContext.sln"
+          echo "BUILD_VER=1.0.$GITHUB_RUN_NUMBER" >> $GITHUB_ENV
+          echo "CONFIG=Release" >> $GITHUB_ENV
+          echo "NUGET_URL=https://nuget.pkg.github.com/${{ github.repository_owner }}/index.json" >> $GITHUB_ENV
+          echo "SLN=SimpleDbContext.sln" >> $GITHUB_ENV
     - uses: actions/checkout@v2
     - name: Setup .NET
       uses: actions/setup-dotnet@v1
