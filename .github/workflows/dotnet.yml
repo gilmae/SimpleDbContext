@@ -31,8 +31,8 @@ jobs:
       run: dotnet restore
     - name: Build
       run: |
-        dotnet build --no-restore --configuration Release
-        dotnet pack --configuration Release --output .
+        dotnet build ${{ env.SLN }} /p:VersionPrefix=${{ env.BUILD_VER }} --no-restore --configuration ${{env.CONFIG}}
+        dotnet pack --configuration --no-build ${{env.CONFIG}}  /p:Version=${{ env.BUILD_VER }}
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Publish
