@@ -2,7 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-  </PropertyGroup>
+    <OutputType>Library</OutputType>
+    <PackageId>SimpleDbContext.AspNetCore</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>David Edgar</Authors>
+    <PackageDescription>This package provides extensions for AspNet Core</PackageDescription>
+    <RepositoryUrl>https://github.com/gilmae/SimpleDbContext</RepositoryUrl>
+    </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>..\SimpleDbContext.AspNetCore\bin\Debug</OutputPath>
